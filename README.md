@@ -1,6 +1,6 @@
 <img width="1132" height="119" alt="CIP GIF" src="https://github.com/user-attachments/assets/181e8d6e-c36b-448d-b890-299b950efed9" />
 
-# Stanford Code in Place 2025 - Section Leader ( Teaching )
+# Stanford Code in Place 2026 - Section Leader ( Teaching )
 
 <small><i>
 Hello! I’m <b>Saif Ur Rasool</b>, a <b>Section Leader</b> for <b>Stanford Code in Place 2025</b>.  
