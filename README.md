@@ -32,7 +32,7 @@ What makes Stanford's Code in Place special is the community support. For every 
 ## Weekly Schedule & Resources
 | #  | Date               | Topic                  | LinkedIn Recap | Solutions | Attendance |
 |----|--------------------|------------------------|----------------|-----------|------------|
-| 1  | April 25th, 9:00 PM | Welcome to Section     | [Week 1 Recap]() | [Karel Hospital Solution]() | ✅ |
+| 1  | April 25th, 9:00 PM | Welcome to Section     | [Week 1 Recap](https://www.linkedin.com/posts/saif-ur-rasool_completed-week-1-code-in-place-karel-is-share-7453367633057419264-C8vR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD64V0wBA1MCVwPSDdPgOD3kozkA_cUuiig) | [Karel Hospital Solution]() | ✅ |
 | 2  | May 2nd, 9:00 PM   | Art of Karel           | [Week 2 Recap]() | [Spread Beeper](), [Checkerboard Karel]() | ✅ |
 | 3  | May 9th, 9:00 PM   | Intro to Python        | [Week 3 Recap]() | [Mars Weight](), [Planetary Weights]() | ✅ |
 | 4  | May 16th, 9:00 PM  | Python Control Flow    | [Week 4 Recap]() | [High-Low Game]() | ✅ |
