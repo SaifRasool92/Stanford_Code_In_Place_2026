@@ -50,6 +50,28 @@ What makes Stanford's Code in Place special is the community support. For every 
 | Draw Flag          | Use Python graphics to draw a creative flag | [Solution]() | [Week 5 Recap]() |
 | Index Game         | List-based Python game to sharpen logic and indexing | [Solution]() | - |
 
+# **Week 1:**
+Karel builds a 3×2 hospital whenever it finds a beeper on its path.
+Each beeper represents construction material such as bricks or cement used to build the hospital.
+
+Built collaboratively with a team of 15 international students from around the world.
+
+What we did
+ • Detected beepers along Karel’s path
+ • Built a 3×2 hospital at every marked location
+ • Moved step by step without missing positions
+ • Repeated the process until all hospitals were complete
+
+What Karel is doing
+ • Scanning for signals
+ • Constructing hospitals using repeated logic
+ • Following a systematic movement pattern
+ • Using functions to automate the task
+
+<img width="1280" height="702" alt="week1-ezgif com-censor" src="https://github.com/user-attachments/assets/0f5dbaf3-2a18-4966-b3f0-a501f014f92b" />
+
+
+
 ## TeachNow Sessions Impact – Stanford Code in Place
 
 As part of Stanford University’s Code in Place program, I’ve conducted 3 personalized TeachNow sessions designed to provide learners with one-on-one support for debugging, problem-solving, and concept mastery in Python.
