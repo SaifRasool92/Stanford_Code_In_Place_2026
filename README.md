@@ -57,18 +57,18 @@ Each beeper represents construction material such as bricks or cement used to bu
 Built collaboratively with a team of 15 international students from around the world.
 
 What we did
- • Detected beepers along Karel’s path
- • Built a 3×2 hospital at every marked location
- • Moved step by step without missing positions
- • Repeated the process until all hospitals were complete
+- Detected beepers along Karel’s path
+- Built a 3×2 hospital at every marked location
+- Moved step by step without missing positions
+- Repeated the process until all hospitals were complete
 
 What Karel is doing
- • Scanning for signals
- • Constructing hospitals using repeated logic
- • Following a systematic movement pattern
- • Using functions to automate the task
+- Scanning for signals
+- Constructing hospitals using repeated logic
+- Following a systematic movement pattern
+- Using functions to automate the task
 
-<img width="1280" height="702" alt="week1-ezgif com-censor" src="https://github.com/user-attachments/assets/0f5dbaf3-2a18-4966-b3f0-a501f014f92b" />
+<img width="1280" height="702" alt="week1 gif" src="https://github.com/user-attachments/assets/0f5dbaf3-2a18-4966-b3f0-a501f014f92b" />
 
 
 
