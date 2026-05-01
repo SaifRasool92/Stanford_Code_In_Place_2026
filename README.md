@@ -70,6 +70,27 @@ What Karel is doing
 
 <img width="1280" height="702" alt="week1 gif" src="https://github.com/user-attachments/assets/0f5dbaf3-2a18-4966-b3f0-a501f014f92b" />
 
+# **Week 2:**
+
+This week, Karel learns to turn one pile into an organized row using decomposition and stepwise refinement.
+
+Karel collects the pile and spreads one beeper per cell along the row.
+The spread begins exactly where the pile originally stood.
+
+What we did
+- Analyzed the problem using high level planning
+- Broke the solution into helper functions
+- Picked all beepers from the original pile
+- Spread one beeper per cell across the row
+- Ensured the program works for any pile size
+
+What Karel is doing
+- Decomposing complex tasks into smaller steps
+- Applying stepwise refinement for clean logic
+- Maintaining precise movement control
+- Using functions to build reusable solutions
+
+<img width="1280" height="702" alt="week 2 new" src="https://github.com/user-attachments/assets/889e8fc1-dab9-46eb-88c3-25f7b7b026bc" />
 
 
 ## TeachNow Sessions Impact – Stanford Code in Place
