@@ -33,7 +33,7 @@ What makes Stanford's Code in Place special is the community support. For every 
 | #  | Date               | Topic                  | LinkedIn Recap | Solutions | Attendance |
 |----|--------------------|------------------------|----------------|-----------|------------|
 | 1  | April 25th, 9:00 PM | Welcome to Section     | [Week 1 Recap](https://www.linkedin.com/posts/saif-ur-rasool_completed-week-1-code-in-place-karel-is-share-7453367633057419264-C8vR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD64V0wBA1MCVwPSDdPgOD3kozkA_cUuiig) | [Karel Hospital Solution](https://github.com/SaifRasool92/Stanford_Code_In_Place_2026/blob/main/Hospital_Karel.py) | ✅ |
-| 2  | May 2nd, 9:00 PM   | Art of Karel           | [Week 2 Recap](https://www.linkedin.com/posts/saif-ur-rasool_completed-week-2-code-in-place-small-robot-share-7454886245899386880-Rf0F?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD64V0wBA1MCVwPSDdPgOD3kozkA_cUuiig) | [Spread Beeper](), [Checkerboard Karel]() | ✅ |
+| 2  | May 2nd, 9:00 PM   | Art of Karel           | [Week 2 Recap](https://www.linkedin.com/posts/saif-ur-rasool_completed-week-2-code-in-place-small-robot-share-7454886245899386880-Rf0F?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD64V0wBA1MCVwPSDdPgOD3kozkA_cUuiig) | [Spread Beeper](https://github.com/SaifRasool92/Stanford_Code_In_Place_2026/blob/main/Spread_Beepers.py), [Alternate Spread Beepers Challenge]() | ✅ |
 | 3  | May 9th, 9:00 PM   | Intro to Python        | [Week 3 Recap]() | [Mars Weight](), [Planetary Weights]() | ✅ |
 | 4  | May 16th, 9:00 PM  | Python Control Flow    | [Week 4 Recap]() | [High-Low Game]() | ✅ |
 | 5  | May 23rd, 9:00 PM  | Graphics               | [Week 5 Recap]() | [Random Circles]() | ✅ |
