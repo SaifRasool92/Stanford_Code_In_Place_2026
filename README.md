@@ -2,10 +2,10 @@
 
 # Stanford Code in Place 2026 - Section Leader ( Teaching )
 
-<small><i>
-Hello! I’m <b>Saif Ur Rasool</b>, a <b>Section Leader</b> for <b>Stanford Code in Place 2025</b>.  
+<h3>
+Hello! I’m <b>Saif Ur Rasool</b>, a <b>2x Section Leader</b> for <b>Stanford Code in Place (2025 - 2026)</b> 🌲.  <br>
 I taught Python to <b>Stanford students from 11 different countries</b> as part of a global learning program.
-</i></small>
+</h3>
 
 ---
 
