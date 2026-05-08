@@ -92,6 +92,17 @@ What Karel is doing
 
 <img width="1280" height="702" alt="week 2 new" src="https://github.com/user-attachments/assets/889e8fc1-dab9-46eb-88c3-25f7b7b026bc" />
 
+# **Week 3:**
+
+We have started learning Python and gained an understanding of variables, the input() function, performed basic calculations, and printed our results.
+
+We achieved two milestones:
+- Mars Weight Calculator
+- Planetary Weight Calculator
+Practice, consistency, and curiosity continue to guide our learning.
+
+<img width="1280" height="702" alt="week 3 opt" src="https://github.com/user-attachments/assets/4b385dcd-875b-434a-aa51-c4b7c3fdf143" />
+
 
 ## TeachNow Sessions Impact – Stanford Code in Place
 
