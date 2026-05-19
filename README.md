@@ -103,6 +103,17 @@ Practice, consistency, and curiosity continue to guide our learning.
 
 <img width="1280" height="702" alt="week 3 opt" src="https://github.com/user-attachments/assets/4b385dcd-875b-434a-aa51-c4b7c3fdf143" />
 
+# **Week 4:**
+Random numbers. Logical decisions.
+
+This week, we built an interactive High Low game using Python, combining randomness, user input, and conditional logic.
+
+The program generates numbers for both the player and the computer.
+
+The player predicts whether their number is higher or lower, and the game evaluates the decision across multiple rounds while tracking performance.
+
+<img width="1280" height="702" alt="week 4 new" src="https://github.com/user-attachments/assets/1c638145-36bc-4d25-8ac5-eeddcf34a707" />
+
 
 ## TeachNow Sessions Impact – Stanford Code in Place
 
