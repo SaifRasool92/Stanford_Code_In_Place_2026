@@ -114,6 +114,25 @@ The player predicts whether their number is higher or lower, and the game evalua
 
 <img width="1280" height="702" alt="week 4 new" src="https://github.com/user-attachments/assets/1c638145-36bc-4d25-8ac5-eeddcf34a707" />
 
+# **Week 5:**
+This week, we moved from console programs to graphical output using Python graphics. We created a canvas and generated random colorful circles, combining functions, loops, and randomness to build visual patterns.
+
+The program draws multiple circles at random positions with different colors each time it runs.
+
+What we did
+- Created a canvas
+- Used loops for repetition
+- Applied random positions and colors
+- Used functions for organization
+
+What the program is doing
+- Drawing random circles
+- Changing colors automatically
+- Reusing structured logic
+- Creating a new visual each run
+
+ <img width="1150" height="646" alt="week 5" src="https://github.com/user-attachments/assets/a96dad17-803f-41ee-bc61-47b213e8fa3e" />
+
 
 ## TeachNow Sessions Impact – Stanford Code in Place
 
