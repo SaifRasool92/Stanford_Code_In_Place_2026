@@ -34,9 +34,9 @@ What makes Stanford's Code in Place special is the community support. For every 
 |----|--------------------|------------------------|----------------|-----------|------------|
 | 1  | April 25th, 9:00 PM | Welcome to Section     | [Week 1 Recap](https://www.linkedin.com/posts/saif-ur-rasool_completed-week-1-code-in-place-karel-is-share-7453367633057419264-C8vR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD64V0wBA1MCVwPSDdPgOD3kozkA_cUuiig) | [Karel Hospital Solution](https://github.com/SaifRasool92/Stanford_Code_In_Place_2026/blob/main/Solutions/Hospital_Karel.py) | ✅ |
 | 2  | May 2nd, 9:00 PM   | Art of Karel           | [Week 2 Recap](https://www.linkedin.com/posts/saif-ur-rasool_completed-week-2-code-in-place-small-robot-share-7454886245899386880-Rf0F?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD64V0wBA1MCVwPSDdPgOD3kozkA_cUuiig) | [Spread Beeper](https://github.com/SaifRasool92/Stanford_Code_In_Place_2026/blob/main/Solutions/Spread_Beepers.py), [Alternate Spread Beepers Challenge](https://github.com/SaifRasool92/Stanford_Code_In_Place_2026/blob/main/Solutions/Spred_Beepers_Alternate_Challenge.py) | ✅ |
-| 3  | May 9th, 9:00 PM   | Intro to Python        | [Week 3 Recap]() | [Mars Weight](), [Planetary Weights]() | ✅ |
-| 4  | May 16th, 9:00 PM  | Python Control Flow    | [Week 4 Recap]() | [High-Low Game]() | ✅ |
-| 5  | May 23rd, 9:00 PM  | Graphics               | [Week 5 Recap]() | [Random Circles]() | ✅ |
+| 3  | May 9th, 9:00 PM   | Intro to Python        | [Week 3 Recap](https://www.linkedin.com/posts/saif-ur-rasool_completed-week-3-code-in-place-we-have-share-7458497510685327362-SuPL/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD64V0wBA1MCVwPSDdPgOD3kozkA_cUuiig) | [Mars Weight](), [Planetary Weights]() | ✅ |
+| 4  | May 16th, 9:00 PM  | Python Control Flow    | [Week 4 Recap](https://www.linkedin.com/posts/saif-ur-rasool_completed-week-4-code-in-place-random-share-7460322693444382720-QzT7/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD64V0wBA1MCVwPSDdPgOD3kozkA_cUuiig) | [High-Low Game]() | ✅ |
+| 5  | May 23rd, 9:00 PM  | Graphics               | [Week 5 Recap](https://www.linkedin.com/posts/saif-ur-rasool_completed-week-5-code-in-place-graphics-share-7462338649792241664-g1xF/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD64V0wBA1MCVwPSDdPgOD3kozkA_cUuiig) | [Random Circles]() | ✅ |
 | 6  | May 30th, 9:00 PM  | Lists and Dictionaries | [Week 6 Recap]() | [Heads Up]() | ✅ |
 
 ## Advanced Problem Set & Recaps
@@ -159,13 +159,14 @@ Platform: Stanford Online
 - Collaborated with Stanford Head TAs Emma Wong and Maria Clarissa, and global teaching peers  
 
 ### Verified Digital Credential  
-[Click here to view Stanford Digital Badge & Credential]()
+[Click here to view Stanford Digital Badge & Credential](https://digitalcredential.stanford.edu/check/948F75BFF3670FFEC16313C549DF3C7906139A3C2710934ED641C126144213DAVjZ6S29DWWpseFBML3A4V0gxVURiRmFaRDBDVEpXenJTdUFvc1g2ZUV0V3Y4T0Fy)
 
 ---
 
 <h2>Certificate of Completion</h2>
 
-<img src="VERIFIED DIGITAL PROOF.jpg" alt="Stanford Verified Credential" width="600" />
+
+<img width="1567" height="1025" alt="Screenshot 2026-06-29 at 10 56 07 AM" src="https://github.com/user-attachments/assets/f622b8cb-5aba-4c3f-b98b-28770bdf07a3" />
 
 ---
 
